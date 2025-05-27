@@ -5,7 +5,7 @@
 + pnu40268	남현욱 :
 + pnu40269	박종현 :
 + pnu40270	박지성 :
-+ pnu40279	배기영 :
++ pnu40279	배기영 : https://github.com/bae-giyoung/
 + pnu40271	배창민 :
 + pnu40272	윤소희 :
 + pnu40273	이다은 :
